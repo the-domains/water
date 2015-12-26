@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#A0C8A8'
+    - '#102818'
+    - '#487868'
+    - '#B8C888'
+    - '#C8E0B0'
+  brandStrength: 0.8230061787734584
+  lightness: 0.3592146352600186
+  rhythmicContrast: 0.6411178679069455
+  saturation: 0.10642818817133304
+cta: {}
+layout_spectrum: 0.183277
+name: water
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.773649
