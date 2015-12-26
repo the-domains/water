@@ -1,4 +1,20 @@
-analytics: {}
+name: water
+favicon: null
+layout_spectrum: 0.183277
+typography_spectrum: 0.773649
+title: water
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#A0C8A8'
@@ -8,11 +24,9 @@ color:
     - '#C8E0B0'
   brandStrength: 0.8230061787734584
   lightness: 0.3592146352600186
-  rhythmicContrast: 0.6411178679069455
   saturation: 0.10642818817133304
-cta: {}
-layout_spectrum: 0.183277
-name: water
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.773649
+  rhythmicContrast: 0.6411178679069455
+purpose:
+  - name: null
+    item: null
+    url: null
